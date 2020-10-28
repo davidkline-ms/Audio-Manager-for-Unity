@@ -1,0 +1,30 @@
+{
+    "name": "com.microsoft.mixedreality.audiomanager",
+    "displayName": "Audio manager for Unity",
+    "version": "2.0.0",
+    "unity": "2018.4",
+    "description": "An intuitive, visual tool for creating compelling audio experiences in Unity.",
+    "keywords": [
+        "microsoft",
+        "audio manager",
+        "visual editor",
+        "spatial sound"
+    ],
+    "author": "Microsoft",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/microsoft/Audio-Manager-for-Unity.git"
+    },
+    "bugs": {
+        "url": "https://github.com/microsoft/Audio-Manager-for-Unity/issues"
+     },
+    "dependencies": { },
+    "samples": [
+        {
+          "displayName": "Audio Manager Example",
+          "description": "Example of using the Audio Manager for Unity",
+          "path": "Samples~/Example"
+        }
+    ]
+}
