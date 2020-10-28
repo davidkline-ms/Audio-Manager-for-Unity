@@ -1,7 +1,7 @@
 {
     "name": "com.microsoft.mixedreality.audiomanager",
     "displayName": "Audio manager for Unity",
-    "version": "2.0.0",
+    "version": "2.0.0-preview.0",
     "unity": "2018.4",
     "description": "An intuitive, visual tool for creating compelling audio experiences in Unity.",
     "keywords": [
@@ -24,7 +24,7 @@
         {
           "displayName": "Audio Manager Example",
           "description": "Example of using the Audio Manager for Unity",
-          "path": "Samples~/Example"
+          "path": "Samples~/AudioManager"
         }
     ]
 }
